@@ -11,3 +11,7 @@ import numpy as np
 data = pd.Series()
 ```
 
+Example of a list
+- [ ] First item
+- [X] Second item
+- [ ] Third item
